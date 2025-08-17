@@ -10,7 +10,7 @@
 - 📫 Reach me at: **mhusnainwahid@gmail.com**
 - ⚡ Fun fact: I enjoy debugging more than watching movies 😆  
 
----
+--- 
 
 ### 🚀 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,supabase,tailwind,bootstrap,cpp,github,git,postman,vercel,npm&perline=6)](https://skillicons.dev)
