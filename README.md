@@ -8,7 +8,6 @@
 - 🌱 Learning **Backend Development & Cloud Deployment**
 - 💬 Ask me about **JavaScript, React, C++, MERN, Supabase**
 - 📫 Reach me at: **mhusnainwahid@gmail.com**
-- ⚡ Fun fact: I enjoy debugging more than watching movies 😆  
 
 --- 
 
